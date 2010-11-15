@@ -1,3 +1,9 @@
+# .irbrc
+# ------
+# Requirements:
+# * hirb
+# * awesome_print
+
 require 'rubygems'
 
 # Enable tab completion
