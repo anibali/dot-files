@@ -6,7 +6,6 @@ set smartindent  " Enable smart indentation
 syntax on  " Enable syntax highlighting
 autocmd Filetype ruby source ~/.vim/ruby-macros.vim
 au BufNewFile,BufRead *.go set filetype=go
-colorscheme twilight  " Set default colour scheme
 set tabstop=2
 set shiftwidth=2
 
