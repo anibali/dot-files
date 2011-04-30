@@ -2,7 +2,7 @@ dismal_denizen's "dot" files
 ============================
 
 This repository contains a few configuration files which I use to keep programs
-pretty and and useful. You can run
+pretty and useful. You can run
 [homesick](https://github.com/technicalpickles/homesick) to apply these
 settings, or you can simply copy bits and pieces to incorporate in your setup.
 
