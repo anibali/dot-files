@@ -23,7 +23,7 @@ plugins=(git ruby)
 source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
-PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/arm-elf/bin:/var/lib/gems/1.8/bin
+PATH="$PATH:/var/lib/gems/1.8/bin:/usr/local/cuda/bin"
 
 # Enable package suggestions when a command is not found
 source /etc/zsh_command_not_found
